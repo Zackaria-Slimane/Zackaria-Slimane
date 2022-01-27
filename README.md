@@ -1,4 +1,4 @@
-# Hey ! i'm Zackaria Slimane , A passionate self taught developer and lover of all things javaScript.
+# Hey ! i'm Zackaria Slimane , A self taught developer and lover of all things javaScript.
 
 
 
