@@ -20,7 +20,6 @@
 
 <h3 align="left">Socials :</h3>
 <p align="left">
-<a href="https://codepen.io/zackaria-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zackaria-s" height="30" width="40" /></a>
 <a href="https://twitter.com/gitignorer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gitignorer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zackaria-slimane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zackaria-slimane" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15216415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15216415" height="30" width="40" /></a>
