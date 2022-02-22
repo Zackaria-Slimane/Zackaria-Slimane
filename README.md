@@ -35,9 +35,7 @@
 
 <br/>
 
-<h3 align="left">GitHub Stats :</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=Zackaria-slimane&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
 
 
 
