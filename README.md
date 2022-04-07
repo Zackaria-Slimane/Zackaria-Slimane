@@ -3,17 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zackaria-slimane&label=Profile%20views&color=0e75b6&style=flat" alt="zackaria-slimane" /> </p>
 
-👨‍💻  I’m currently learning VueJS, Node & Express 
+👨‍💻  I’m currently learning & working with  VueJS, Node & Express 
 
 👯 I’m looking to collaborate more on  friendly open source projects
-
-📝 Really interested in technical writing , making preparations to start.
 
 💬  Would love to talk and discuss VueJs, Node and javaScript techs and stacks !
 
 📫You can always reach me at **zakaria.slimane@hotmail.fr**
-
-⚡ Currently working on a anime suggestions app and a responsive Vue based portfolio !
 
 
 <br/>
