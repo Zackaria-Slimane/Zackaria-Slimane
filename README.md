@@ -2,25 +2,13 @@
 <h3 align="center"> javaScript web developer, aspiring fullstack engineer!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zackaria-slimane&label=Profile%20views&color=0e75b6&style=flat" alt="zackaria-slimane" /> </p>
-
-👨‍💻  I’m currently learning & working with  VueJS, Node & Express 
-
-👯 I’m looking to collaborate more on  friendly open source projects
-
-💬  Would love to talk and discuss VueJs, Node and javaScript techs and stacks !
-
-📫You can always reach me at **zakaria.slimane@hotmail.fr**
-
-
 <br/>
 
 <h3 align="center">Socials :</h3>
 <p align="center">
 <a href="https://twitter.com/gitignorer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gitignorer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zackaria-slimane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zackaria-slimane" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15216415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15216415" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zackaria_cel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zackaria_cel" height="30" width="40" /></a>
-</p>
+
 
 <br/>
 
