@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zackaria Slimane</h1>
-<h3 align="center"> javaScript web developer, aspiring fullstack engineer!</h3>
+<h3 align="center"> Front end web developer, MEVN & MERN ,  aspiring fullstack engineer!</h3>
 
-<p align="start"> <img src="https://komarev.com/ghpvc/?username=zackaria-slimane&label=Profile%20views&color=0e75b6&style=flat" alt="zackaria-slimane" /> </p>
 <br/>
-
 
 <h3>Tech stack :</h3>
 
@@ -19,6 +17,9 @@ Hello, i am Zackaria Slimane , a passionate front end developer and javascript e
 I'm currently working full-time for ADHOC Agency a digital marketing agency. I am also developing a Budgeting app, Coinbend As a basic expense and budget tracking web application. While also learning and practicing React
 </div>
 
+</br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zackaria-slimane&label=Profile%20views&color=0e75b6&style=flat" alt="zackaria-slimane" /> </p>
 
 
 
