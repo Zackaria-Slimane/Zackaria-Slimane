@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i am Front end web developer, React, Vue , Nuxt</h1>
+<h1 align="center">Front end web developer, React, Vue , Nuxt</h1>
 <h3 align="center">With Wordpress & Shopify experience .</h3>
 
 <br/>
