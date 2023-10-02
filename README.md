@@ -1,5 +1,5 @@
-<h1 align="center">Front end web developer : React -  Vue -  Nuxt</h1>
-<h3 align="center">With Wordpress & Shopify experience .</h3>
+<h1 align="center">Web developer : React -  Vue -  Nuxt</h1>
+<h3 align="center"> Wordpress & Shopify enthousiast .</h3>
 
 <br/>
 
