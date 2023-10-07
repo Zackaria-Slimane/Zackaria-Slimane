@@ -1,4 +1,4 @@
-<h1 align="center">Web developer : React -  Vue -  Nuxt</h1>
+<h1 align="center">Web Developer | Building responsive websites with modern tools : React | Golang | NodeJS | Vue | Nuxt  </h1>
 <h3 align="center"> Wordpress & Shopify enthousiast .</h3>
 
 <br/>
