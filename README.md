@@ -1,5 +1,5 @@
 <h1 align="center"> Full Stack Developer | Crafting User-Centric Solutions : React | Golang | NodeJS | Vue | Nuxt </h1>
-<h3 align="center"> Wordpress & Shopify enthousiast .</h3>
+<h3 align="center"> DevOps enthousiast .</h3>
 
 <br/>
 
