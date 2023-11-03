@@ -1,4 +1,4 @@
-<h1 align="center"> Full Stack Developer | React | Golang | Docker | Nodejs | Vue & Nuxt.</h1>
+<h1 align="center"> Front-end Developer | React | Golang | Docker | Nodejs | Vue & Nuxt.</h1>
 <h3 align="center"> DevOps enthusiast .</h3>
 
 <br/>
