@@ -1,5 +1,5 @@
-<h1 align="center"> Full Stack Developer | React & Next | Golang | Docker | Nodejs | Vue & Nuxt.</h1>
-<h3 align="center"> DevOps enthusiast .</h3>
+<h1 align="center"> Software Developer | React & Next | Golang | Docker | Nodejs | Vue & Nuxt.</h1>
+<h3 align="center"> DevOps & Cloud enthusiast .</h3>
 
 <br/>
 
