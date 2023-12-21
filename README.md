@@ -1,4 +1,4 @@
-<h1 align="center"> Software Developer | React & Next | Golang | Docker | Nodejs | Vue & Nuxt.</h1>
+<h1 align="center"> Developer | React | Vue | Golang | Nodejs | AWS .</h1>
 <h3 align="center"> DevOps & Cloud enthusiast .</h3>
 
 <br/>
