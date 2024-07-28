@@ -1,4 +1,4 @@
-<h1 align="center"> Developer | React | Vue | Golang | Nodejs | AWS .</h1>
+<h1 align="center"> Developer | JavaScript | Golang | AWS .</h1>
 <h3 align="center"> DevOps & Cloud enthusiast .</h3>
 
 <br/>
